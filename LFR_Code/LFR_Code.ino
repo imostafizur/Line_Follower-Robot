@@ -17,7 +17,7 @@ int ms4=52;
 int ms5=65;
 int ms6;
 int ms7;
-int turnspd = 120;
+int turnspd = 140;//trun speed increase 
 int lms ;
 int rms;
 int error;
