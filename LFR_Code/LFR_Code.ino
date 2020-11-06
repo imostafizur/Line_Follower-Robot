@@ -21,7 +21,7 @@ int turnspd = 120;
 int lms ;
 int rms;
 int error;
-int th=220;
+int th=240;
 int endpointtime=200;
 int breaktime=100;
 int flag;
