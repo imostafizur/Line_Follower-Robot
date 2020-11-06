@@ -37,7 +37,7 @@ void setup()
   pinMode(ENA, OUTPUT);
   pinMode(ENB, OUTPUT);
 
- delay(500);
+ delay(700);
 
  
 
